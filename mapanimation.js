@@ -15,7 +15,7 @@ const busStops = [
   ];
   
   // IMPORTANT: You will need to create a mapbox account and an API token at https://account.mapbox.com/ Once you've done so, place the token value between the single quotes in the line below. 
-  mapboxgl.accessToken = 'pk.eyJ1IjoiYnN0YWN5YXoiLCJhIjoiY2xhaGhqOHlvMDUycDNzbGZnZ3Brb3hsNiJ9.VtG-YqwxrcrYc-rJJdI8yw';
+  mapboxgl.accessToken = '';
   
   // This is the map instance
   let map = new mapboxgl.Map({
