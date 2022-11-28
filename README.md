@@ -13,3 +13,6 @@ NOTE: You will need to create an account at https://account.mapbox.com/ and will
 2) Edit the mapanimation.js file to include your specific access token (see "NOTE" above) and save your changes. 
 3) Load the index.html from the folder used in step 1 into the browser of your choice
 4) Click the "Click to show stops between MIT and Harvard" button to begin the animation
+
+# Roadmap
+At this time I do not have any additional changes that I intend to make to this particular repository. However, I intend to work on a similar project showing real time bus locations within the city of Los Angeles using the Swiftly API. Upon completion, I will link to that repository as well. 
